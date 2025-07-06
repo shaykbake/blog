@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nothing to see here.
 
-### More Information
+If you know me, you know me. If you don't, then feel free to connect.
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
 You can reach me on the [{LS} forums](https://longshots.boards.net/) or the [{LS} Discord server](https://discord.gg/rFRrZ8V).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ1OTE2ODBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTE3MDU3NjldfQ==
 -->
